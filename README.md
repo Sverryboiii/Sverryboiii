@@ -3,7 +3,7 @@
 <div>
   ### About me:
   I am a 15 year old python developer with nearly 2 years of experience.<br>
-  Besides programming I also sometimes work on hardware in <a href="https://www.circuitverse.org/Sverryboiii">CircuitVerse<a>
+  Besides programming I also sometimes work on hardware in <a href="https://circuitverse.org/users/437671">CircuitVerse<a>
 
   Currently I am making a module to make working with the library `pygame` much easier and a Virtual Environment game called GambaOS.
 </a>
