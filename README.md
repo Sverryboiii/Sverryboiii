@@ -5,9 +5,10 @@
   I am a 15 year old python developer with nearly 2 years of experience.<br>
   Besides programming I also sometimes work on hardware in <a href="https://circuitverse.org/users/437671">CircuitVerse</a>
 
-
-  Currently I am making a module to make working with the library `pygame` much easier and a Virtual Environment game called GambaOS.
-
+  ## Projects.
+  My current main projects are GambaOS, sverpykit and minecraft-datapack-creator.<br>
+  Although I have worked on some big projects, none of my github repositories are actually done. Here is a list of usable repo's:
+   - PygameTools (sverpykit)
 
   ## How to reach me:
   <a href="https://discord.gg/nBhEqU9yDb">Discord</a><br>
