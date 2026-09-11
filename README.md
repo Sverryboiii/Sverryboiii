@@ -1,7 +1,7 @@
 ## Hi, I am Sverryboiii
 
 <div>
-  ### About me:
+  ## About me:<br>
   I am a 15 year old python developer with nearly 2 years of experience.<br>
   Besides programming I also sometimes work on hardware in <a href="https://circuitverse.org/users/437671">CircuitVerse</a>
 
