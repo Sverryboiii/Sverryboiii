@@ -16,6 +16,7 @@
    - You can hack (This is 100% isolated in GambaOS's folder).<br>
    - You can work (You just need to write scripts for in-game currency).<br>
    - You can explore (You can explore deeper parts of the web, the files of GambaOS and much more).<br>
+
   GambaOS is located in your APPDATA, this means that you have full control over it. you can change anything you want!
 
   ### How to reach me:
