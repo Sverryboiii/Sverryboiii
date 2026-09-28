@@ -24,7 +24,7 @@
   in GambaOS and not your whole computer.
 
   ### How to reach me:
-  <a href="https://discord.gg/nBhEqU9yDb">Discord</a><br>
+  <a href="https://discord.gg/nBhEqU9yDb">Discord server</a><br>
 </div>
 
 <!--
